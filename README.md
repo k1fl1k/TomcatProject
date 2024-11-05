@@ -86,9 +86,9 @@ TomcatProject
    http://localhost:8080/TomcatProject/products
    ```
 3. To view info about request.
-```
-http://localhost:8080/TomcatProject_war_exploded/request-info
-```
+   ```
+   http://localhost:8080/TomcatProject_war_exploded/request-info
+   ```
 
 ### Technologies Used
 
