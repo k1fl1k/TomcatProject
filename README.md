@@ -6,16 +6,16 @@ This is a Java web application deployed on Apache Tomcat, built with Java EE and
 
 ### Prerequisites
 
-- **JDK 8+**: Ensure you have Java 8 or higher installed on your system.
-- **Apache Tomcat 9+**: The application is designed to run on Apache Tomcat. Make sure you have Tomcat 9 or later.
-- **Maven** (optional): The project uses Maven for dependency management. Ensure you have Maven installed for building the project.
+- **JDK 22+**: Ensure you have Java 8 or higher installed on your system.
+- **Apache Tomcat 10+**: The application is designed to run on Apache Tomcat. Make sure you have Tomcat 9 or later.
+- **Maven**: The project uses Maven for dependency management. Ensure you have Maven installed for building the project.
 
 ### Installation
 
 1. Clone or download this repository.
 
    ```bash
-   git clone https://github.com/yourusername/TomcatProject.git
+   git clone https://github.com/k1fl1k/TomcatProject.git
    ```
 
 2. Navigate to the project directory.
